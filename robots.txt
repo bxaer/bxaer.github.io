@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bxaer.github.io/VeC/sitemap.VeC.gz
